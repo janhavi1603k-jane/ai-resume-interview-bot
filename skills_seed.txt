@@ -1,0 +1,18 @@
+python
+pandas
+numpy
+sql
+machine learning
+deep learning
+nlp
+computer vision
+fastapi
+flask
+docker
+kubernetes
+git
+linux
+data structures
+algorithms
+communication
+teamwork

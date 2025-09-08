@@ -1,0 +1,12 @@
+[
+  {
+    "topic": "python",
+    "question": "Explain list vs tuple in Python.",
+    "answer": "Lists are mutable, tuples are immutable. Lists use [], tuples use (). Tuples can be faster and hashable if containing hashable items."
+  },
+  {
+    "topic": "ml",
+    "question": "Bias vs variance?",
+    "answer": "Bias: error from wrong assumptions, underfitting. Variance: sensitivity to fluctuations, overfitting. Goal is to balance."
+  }
+]
